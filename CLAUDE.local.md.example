@@ -1,0 +1,19 @@
+# CLAUDE.local.md (개인용 — 이 파일을 복사해 CLAUDE.local.md로 만들고 채운다. gitignore됨)
+
+## 나
+- 이름: (예: 안민영 / 권현진)  ← /ai-log의 작성자, 커밋 브랜치 이름에 쓴다
+- OS: (Mac / Windows)
+- python 명령: (Mac: python3 / Windows: python)
+- 브랜치 이름에 쓸 작성자 표기: (예: Min_Yeong)
+
+## 내 담당 모듈
+결정사항.md「역할 분담」·「파일 구조」의 (민영)/(현진) 표시가 기준이다. 역할이 바뀌면 결정사항.md를 먼저 고치고 여기도 맞춘다.
+- 안민영 예시: db/, rules/, rag/, graph/, sim/, tests/test_rules.py
+- 권현진 예시: agent/, tools/, mcp_server/, app.py, config.py, notify/, tests/test_medication.py
+- 담당: (예: db/, agent/run_agent.py, tools/medication_tools.py ...)
+- 상대방 담당(건드리면 공유할 파일): (예: app.py, rag/ ...)
+
+## 개인 선호
+- 설명 깊이: (예: 코드마다 이유 한두 줄 / 간단히)
+- 코드 작성 방식: (예: 조각을 보여 주면 내가 붙여넣기 / "작성해줘"라고 할 때만 파일 수정)
+- 기타:
