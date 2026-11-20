@@ -1,0 +1,18 @@
+# 비밀값
+.env
+
+# 산출물
+outputs/
+rag/index/
+*.db
+__pycache__/
+
+# 강의 자료 (저작권·용량 문제로 커밋하지 않음)
+docs/lectures/
+
+# 개인 설정
+CLAUDE.local.md
+.claude/settings.local.json
+
+# OS
+.DS_Store
